@@ -134,7 +134,7 @@ def main():
     captura.release()
     cv2.destroyAllWindows()
 
-    # Exibir total de pessoas únicas detectadas
+    # Exibi total de pessoas únicas detectadas
     print(f"Total de pessoas únicas detectadas atravessando a rua: {total_pessoas}")
 
 if __name__ == "__main__":
