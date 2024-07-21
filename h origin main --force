@@ -1,0 +1,62 @@
+[33m5491e58[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m ENTREGA REALIZADA
+[33mafed968[m Adicionando pasta frozen_inference_graph com README inicial
+[33m0b6118f[m Removendo pasta minhas_modificacoes/
+[33m3960148[m Adicionando novo vídeo para rastreio de pessoas
+[33m7a336d6[m TESTE DE CONEXAO REPOSITORIO
+[33m7b73b9a[m Descrição do seu commit aqui
+[33me6d8fe8[m Remove arquivos de modelo SSD Mobilenet V2 Coco
+[33m92ebaf5[m Adiciona frozen_inference_graph.pb ao diretório rastreio-pessoas
+[33meb0a809[m Adicionando nova pasta e arquivos ao projeto
+[33me98251b[m[33m ([m[1;31morigin/testing[m[33m)[m 🤡 Processamento do frame melhorado
+[33m7366750[m Merge pull request #12 from chiarorosa/testing
+[33ma5837b7[m gitignore Atualizado
+[33m633485e[m Merge pull request #11 from chiarorosa/testing
+[33m5064d83[m Código ROI atualizado
+[33me1f3325[m Merge pull request #10 from chiarorosa/testing
+[33m8a3ee53[m Referência COCO
+[33m520d22b[m Merge pull request #9 from chiarorosa/testing
+[33m7568505[m Verifica Câmeras
+[33m4c1d1fe[m Merge pull request #8 from chiarorosa/testing
+[33me1c49e7[m Artigo SSD MobileNetV2
+[33me174770[m Merge pull request #7 from chiarorosa/testing
+[33m26bfc86[m Leitura MobileNetV2
+[33mc32d16d[m Merge pull request #6 from chiarorosa/testing
+[33m60ca0f6[m Referência YoloV3
+[33m5be42bc[m Merge pull request #5 from chiarorosa/testing
+[33ma3219c1[m Removido yolo-url
+[33m3de0cab[m Merge pull request #4 from chiarorosa/testing
+[33m3128a67[m Removido arquivo teste
+[33m21d9d23[m Merge pull request #3 from techroom-place/main
+[33m4066359[m Create yolo-url
+[33ma14b452[m Merge pull request #2 from techroom-place/main
+[33m9906ad5[m Create verifica_cameras.py
+[33mb96d4d3[m Merge pull request #1 from techroom-place/main
+[33m52e8a2f[m Create test.py
+[33m511ee47[m ♻️ Cleancode e pt-BR
+[33m9f9190c[m 🐛 Corrigido erro ao tentar alterar o limiar No-Tiny
+[33md9807ea[m 📦 Requirements atualizado
+[33ma295046[m 📝 README atualizado
+[33mcf7f322[m 📝 README criado
+[33me6f5e11[m 🙈 Ignorar arquivo de pesos do modelo
+[33m89594cf[m 💡 Comentários rastreio de pessoas
+[33m162cc6b[m ✨ Código rastreio de pessoas em vídeo
+[33m67e2ccd[m 📝 README atualizado
+[33m78c14d8[m 🐛 Pequenos ajustes
+[33ma994660[m 🐛 Corrigido acentos
+[33m8f22be4[m 💬 coco.names traduzido pt-BR
+[33m9e3e8e3[m ✨ Código modelo yolo v3 tiny e verificação de modelo
+[33m2cfa1b8[m ♻️ Cleancode
+[33md9ab61f[m ✨ Código modelo yolo v3 detectar objetos
+[33m2bfc675[m ✨ Código reconhecimento de faces tempo real + README
+[33m2653c91[m 🐛 Fix markdown
+[33me2b841e[m 🐛 Fix markdown
+[33m0b0d5f9[m 🚸 README ajustado
+[33m4d1f0df[m 📝  README roi
+[33mcb1436e[m 📝 README vagas
+[33maba9e0c[m 🐛 Fix gitignore
+[33m99508cc[m 🙈 gitignore removido diretório de ambiente
+[33md0deb59[m 🙈 gitignore
+[33md278fe1[m 🤡 Vídeo estacionamento
+[33m8f294bd[m ✨ Código região de interesse e contador de vagas
+[33m0435313[m 🚧 Requisitos do projeto
+[33m94d3bca[m 🎉 Repositório Criado
